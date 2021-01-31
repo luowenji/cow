@@ -8,4 +8,4 @@
 
 ## 奶牛图片及标注示例
 ![数据集标注示例](https://raw.githubusercontent.com/luowenji/cow/main/example/inf1.jpg?token=AP623VM3IEPFHYZWWF64K6TACZDKW)
-
+<img src="https://raw.githubusercontent.com/luowenji/cow/main/example/inf1.jpg?token=AP623VM3IEPFHYZWWF64K6TACZDKW" width="200" height="200" alt="红外示例1"/><br/>
