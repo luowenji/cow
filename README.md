@@ -7,5 +7,6 @@
 红外牛群数据集总体为449MB，包括4119张图片及其标注信息，标注类别同分为三类：cow（奶牛整体）、head（牛头）、tail（牛尾）。  
 
 ## 奶牛图片及标注示例
-![数据集标注示例](https://github.com/luowenji/cow/tree/main/example/inf1.jpg)
+![数据集标注示例](https://github.com/luowenji/cow/blob/main/example/inf1.jpg)
+
 
