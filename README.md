@@ -8,5 +8,6 @@
 
 ## 奶牛图片及标注示例
 ![数据集标注示例](https://github.com/luowenji/cow/blob/main/example/inf1.jpg)
+<img src="https://github.com/luowenji/cow/blob/main/example/inf1.jpg" width="200" height="200" alt="抖音小程序"/>
 
 
