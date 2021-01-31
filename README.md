@@ -10,4 +10,9 @@
 <img src="https://github.com/luowenji/cow/blob/main/example/inf1.jpg" width="600" height="400" alt="红外示例"/>
 <img src="https://github.com/luowenji/cow/blob/main/example/rgb1.jpg" width="600" height="400" alt="彩色示例"/>
 
+## Kmeans聚类所得anchor box
+红外：
+    23,43  47,77  55,169  89,103  114,162  129,280  178,140  216，283  343,318
+彩色：
+    7,24  17,33  29,44  51,63  19,89  54,117  82,92  105,170  172,254
 
