@@ -4,7 +4,7 @@
 彩色及红外数据集已上传到百度网盘，以下提供下载链接。  
 彩色牛群数据集总体为9个G左右，分为三个压缩包上传，共包括包括3974张图片（JPEGImages文件夹中）及其.xml格式标注信息文件（Annotations文件夹中），标注类别分为三类：cow（奶牛整体）、head（牛头）、tail（牛尾），以下为下载链接：   
 rgb1：https://pan.baidu.com/s/1ApcLSp4bNlYS9r7M0yO1YA  提取码：m100   
-  
+rgb2：https://pan.baidu.com/s/1t2FoIT7kpvrHoi-hwE5koQ 提取码：68ly   
 rgb3：链接：https://pan.baidu.com/s/1BNsYqD2epLj_3JKFRWnFiA  提取码：1z4l   
 
 红外牛群数据集总体为449MB，共一个压缩包，包括4119张图片（JPEGImages文件夹中）及其.xml格式标注信息文件（Annotations文件夹中），标注类别同分为三类：cow（奶牛整体）、head（牛头）、tail（牛尾），以下为下载链接：
