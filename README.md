@@ -5,7 +5,7 @@
 彩色牛群数据集总体为9个G左右，分为三个压缩包上传，共包括包括3974张图片（JPEGImages文件夹中）及其.xml格式标注信息文件（Annotations文件夹中），标注类别分为三类：cow（奶牛整体）、head（牛头）、tail（牛尾），以下为下载链接： 
   
 红外牛群数据集总体为449MB，共一个压缩包，包括4119张图片（JPEGImages文件夹中）及其.xml格式标注信息文件（Annotations文件夹中），标注类别同分为三类：cow（奶牛整体）、head（牛头）、tail（牛尾），以下为下载链接：
-下载链接：https://pan.baidu.com/s/1CNV18B5Ws77IDS15KM70bQ  提取码：cff7 
+https://pan.baidu.com/s/1CNV18B5Ws77IDS15KM70bQ  提取码：cff7 
 ## 数据集奶牛标注示例图
 <img src="https://github.com/luowenji/cow/blob/main/example/inf1.jpg" width="600" height="400" alt="红外示例"/>
 <img src="https://github.com/luowenji/cow/blob/main/example/rgb1.jpg" width="600" height="400" alt="彩色示例"/>
